@@ -1,0 +1,9 @@
+.button{
+	-fx-background-color: -fx-base-blue;
+	-fx-text-fill: -fx-solid-white;
+	-fx-background-radius: 10;
+	-fx-border-radius: 10;
+}
+.text-field:focused {
+	-fx-border-color: -fx-base-blue;
+}
